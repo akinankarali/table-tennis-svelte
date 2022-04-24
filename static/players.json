@@ -1,0 +1,94 @@
+[
+        {
+           "id":"1",
+           "playerName":"Lorem Ipsum - 1",
+           "gender":"Male",
+           "homeTown":"Amsterdam",
+           "bornYear":1996,
+           "hand":"right",
+           "active":true,
+           "height":1.65,
+           "weight":83,
+           "championships":[
+              {
+                 "world":5,
+                 "europe":19,
+                 "local":35,
+                 "nicknames":[
+                    "Big Boss",
+                    "Monster",
+                    "Ghost"
+                 ]
+              }
+           ]
+        },
+        {
+           "id":"2",
+           "playerName":"Lorem Ipsum - 2",
+           "gender":"Male",
+           "homeTown":"Amsterdam",
+           "bornYear":1996,
+           "hand":"right",
+           "active":true,
+           "height":1.75,
+           "weight":85,
+           "championships":[
+              {
+                 "world":1,
+                 "europe":3,
+                 "local":9,
+                 "nicknames":[
+                    "Professor",
+                    "Brave Heart",
+                    "The Best"
+                 ]
+              }
+           ]
+        },
+        {
+           "id":"3",
+           "playerName":"Lorem Ipsum - 3",
+           "gender":"Male",
+           "homeTown":"Adana",
+           "bornYear":1996,
+           "hand":"left",
+           "active":true,
+           "height":1.75,
+           "weight":73,
+           "championships":[
+              {
+                 "world":2,
+                 "europe":5,
+                 "local":11,
+                 "nicknames":[
+                    "Doctor",
+                    "Iceman",
+                    "Bulldozer"
+                 ]
+              }
+           ]
+        },
+        {
+           "id":"4",
+           "playerName":"Lorem Ipsum - 4",
+           "gender":"Female",
+           "homeTown":"Adana",
+           "bornYear":1996,
+           "hand":"right",
+           "active":true,
+           "height":1.70,
+           "weight":77,
+           "championships":[
+              {
+                 "world":1,
+                 "europe":1,
+                 "local":3,
+                 "nicknames":[
+                    "Striker",
+                    "Daffodil",
+                    "Judge"
+                 ]
+              }
+           ]
+        }
+]
